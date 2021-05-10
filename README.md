@@ -29,15 +29,15 @@ The results are stated below.
 School summary remained much of the same except for the results of Thomas High School. Before the omission of the ninth grade data, Thomas High School's percentage of students passing math, reading, and both were all higher that 90%. However, with the omission of the subset, the percentage of students passing dropped to the 60%'s - see the second image. This is not the end though, the percentages were recalculated without the ninth grade data in the total student pool and see the third image for the slight differences in results compared ot the original analysis. Most of the percentage of passing students decreased by a small tenth digit difference. Further investigation is recommended to assess the validity in question. See tables below for comparison.
   
 <p align="center">
-  <img width="500" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/8f17f9a0fa9a8b20e6dbbbcc9fcc015d6e805d88/Resources/pre_School_summary.PNG" title "Original School Summary">
+  <img width="600" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/8f17f9a0fa9a8b20e6dbbbcc9fcc015d6e805d88/Resources/pre_School_summary.PNG" title "Original School Summary">
 </p>
   
 <p align="center">
-  <img width="500" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/aad3279f06b6ef5f9c706ad0c0b8972999834016/Resources/School_summary.PNG" title "New School Summary">
+  <img width="600" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/aad3279f06b6ef5f9c706ad0c0b8972999834016/Resources/School_summary.PNG" title "New School Summary">
 </p>
   
 <p align="center">
-  <img width="500" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/a6a0906952d7fbc2a631b880db51301e6586708c/Resources/actual_school_summary.PNG" title "Actual School Summary">
+  <img width="600" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/a6a0906952d7fbc2a631b880db51301e6586708c/Resources/actual_school_summary.PNG" title "Actual School Summary">
 </p>
   
 * Note that certain columns were not updated as it was not explicitly requested for in the challenge.
@@ -85,11 +85,11 @@ The % of students passing change from 90% to 81% in the $585-629 range; and from
   The scores did not appear to differ too much from the original data set by school size. See figures below.
   
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/ba449f1615c7e9944789a1d45417a0e692de8d62/Resources/pre_school_size.PNG" title "Original Scores by School Size">
+  <img width="800" height="80" src= "https://github.com/chkCreate/School_District_Analysis/blob/ba449f1615c7e9944789a1d45417a0e692de8d62/Resources/pre_school_size.PNG" title "Original Scores by School Size">
 </p>
   
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/ba449f1615c7e9944789a1d45417a0e692de8d62/Resources/school_size.PNG" title "New Scores by School Size">
+  <img width="800" height="80" src= "https://github.com/chkCreate/School_District_Analysis/blob/ba449f1615c7e9944789a1d45417a0e692de8d62/Resources/school_size.PNG" title "New Scores by School Size">
 </p>
   
 * Scores by school type
@@ -97,11 +97,11 @@ The % of students passing change from 90% to 81% in the $585-629 range; and from
   The scores by school type did not differ too much with the amount of significant digits. See figures below.
   
 <p align="center">
-  <img width="400" height="700" src= "" title "Original Scores by School Type">
+  <img width="800" height="80" src= "" title "Original Scores by School Type">
 </p>
   
 <p align="center">
-  <img width="400" height="700" src= "" title "New Scores by School Type">
+  <img width="800" height="80" src= "" title "New Scores by School Type">
 </p>
   
   
