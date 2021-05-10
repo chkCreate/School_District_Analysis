@@ -73,11 +73,11 @@ See images below for math and reading scores by grade per school. The main diffe
 The % of students passing change from 90% to 81% in the $585-629 range; and from 66% to 63% in the $630-644. 9% change in the $585-629 and 3% change in the $630-644 range can amount to huge sums of money depending on the total number of students. The removal of the subset suggests that spending $585-629 increased the overall passing percentage by 9% and therefore, schools may believe higher spending per student in the two ranges may increase the overall percentage passing. See images below for the details.
   
 <p align="center">
-  <img width="400" height="300" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/pre_school_spending.PNG" title "Original Scores by School Spending">
+  <img width="500" height="300" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/pre_school_spending.PNG" title "Original Scores by School Spending">
 </p>
   
 <p align="center">
-  <img width="400" height="300" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
+  <img width="500" height="300" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
 </p>
   
 * Scores by school size
