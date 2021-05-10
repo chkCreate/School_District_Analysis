@@ -57,15 +57,15 @@ See images below for math and reading scores by grade per school. The main diffe
 </p>
   
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/math_scores.PNG" title "New Math Scores by School Grade">
+  <img width="300" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/math_scores.PNG" title "New Math Scores by School Grade">
 </p>
 
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/pre_reading_scores.PNG" title "Original Reading Scores by School Grade">
+  <img width="300" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/pre_reading_scores.PNG" title "Original Reading Scores by School Grade">
 </p>
   
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/reading_scores.PNG" title "New Reading Scores by School Grade">
+  <img width="300" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/reading_scores.PNG" title "New Reading Scores by School Grade">
 </p>
 
 * Scores by school spending
@@ -77,7 +77,7 @@ The % of students passing change from 90% to 81% in the $585-629 range; and from
 </p>
   
 <p align="center">
-  <img width="500" height="200" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
+  <img width="400" height="200" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
 </p>
   
 * Scores by school size
