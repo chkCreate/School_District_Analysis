@@ -14,7 +14,7 @@ The results are stated below.
   
   See the images below for detail on the district summaries before and after the omission of the subset. The district average math score decreased by 0.1 point; % passing math score is lower by 0.2%; % passing reading score is lower by 0.3%; and therefore % overall passing is lower by 0.1%. The subset under investigation inflated the overall passing percentage by a 0.1%, which amounts to 3,917 students who may have passed or failed depending on the result of the academic dishonesty investigation. 
   
-* Note that certain columns were not updated as it was not explicitly requested for in the challenge.
+*Note that certain columns were not updated as they were not explicitly requested to be be uploaded in the challenge.*
   
 <p align="center">
   <img width="800" height="80" src= "https://github.com/chkCreate/School_District_Analysis/blob/2bed10f2b010f26b07fb177e5ca4e22728963577/Resources/pre_district_summary.PNG" title "Original District Summary">
@@ -40,7 +40,7 @@ School summary remained much of the same except for the results of Thomas High S
   <img width="650" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/a6a0906952d7fbc2a631b880db51301e6586708c/Resources/actual_school_summary.PNG" title "Actual School Summary">
 </p>
   
-* Note that certain columns were not updated as it was not explicitly requested for in the challenge.
+*Note that certain columns were not updated as they were not explicitly requested to be be uploaded in the challenge.*
   
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   
@@ -53,7 +53,7 @@ Compared to the high 80% to the low 90% of the overall passing percentage of stu
 See images below for math and reading scores by grade per school. The main differences to note are that both math and reading scores for 9th grade Thomas High School has been replaced as *NaN*.
   
 <p align="center">
-  <img width="400" height="700" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/pre_math_scores.PNG" title "Original Math Scores by School Grade">
+  <img width="300" height="600" src= "https://github.com/chkCreate/School_District_Analysis/blob/91be57e592d6e90f510e5090b1e348fca47db9c8/Resources/pre_math_scores.PNG" title "Original Math Scores by School Grade">
 </p>
   
 <p align="center">
@@ -77,7 +77,7 @@ The % of students passing change from 90% to 81% in the $585-629 range; and from
 </p>
   
 <p align="center">
-  <img width="400" height="200" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
+  <img width="500" height="200" src= "https://github.com/chkCreate/School_District_Analysis/blob/21a687a68b89a02240753f19893b31afbaef9b56/Resources/school_spending.PNG"  title "New Scores by School Spending">
 </p>
   
 * Scores by school size
